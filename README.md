@@ -1,5 +1,4 @@
-# X-ray-body-part-classification-using-custom-CNN
-CNN model for classification X-ray images of human body parts
-
-
-This code is written in Kaggle environment
+# CNN model for classification X-ray images of human body parts
+This is a python code written in Kaggle environment for detection 22 body parts of human; You can see all the code descriptions inside.
+It's my pleasure if we are in touch on Kaggle!
+https://www.kaggle.com/vafaknm
